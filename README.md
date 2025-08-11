@@ -1,7 +1,7 @@
 # jiangsu-safety-learning-bypass
 跳过 “2025 江苏省大学新生安全教育线上学习平台” 的 30 秒翻页限制
 
-> 适用于页面：`[/guns-vip-main/wap/newStudentArticle*](http://wap.xiaoyuananquantong.com/guns-vip-main/wap/newStudentArticle*)`  
+> 适用于页面：`http://wap.xiaoyuananquantong.com/guns-vip-main/wap/newStudentArticle*`  
 > 功能：移除每翻一页的 30s 限制，直接进行考试。
 ## 安装
 - 点击下面的链接来安装脚本（需要安装 Tampermonkey）：  
